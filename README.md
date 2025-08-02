@@ -47,16 +47,16 @@ To view the site locally:
 
    git clone https://github.com/festuskyalomutua/My-Portfolio
    
-Navigate to the project directory:
+2. Navigate to the project directory:
 
 
 Open index.html: Simply open the index.html file in your preferred web browser to view the portfolio.
 
-📞 Contact
-https://github.com/festuskyalomutua
+3. 📞 Contact
+   https://github.com/festuskyalomutua
 
-https://www.linkedin.com/in/festus-kyalo-mutua-11137530b
+   https://www.linkedin.com/in/festus-kyalo-mutua-11137530b
 
-WhatsApp: +254 710 694 981
+   WhatsApp: +254 710 694 981
 
-Twitter: @festus69020
+   Twitter: @festus69020
