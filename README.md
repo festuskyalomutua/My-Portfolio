@@ -28,11 +28,16 @@ Mysacco web, Mambo doc web and Rebfest
 ## 📁 Folder Structure
 
 profile-project/
-│
+
+
 ├── index1.html # Main HTML file
+
 ├── style.css # Stylesheet
+
 ├── images/ # profile and project images
+
 └── README.md # This file
+
 
 ## 🚀 Getting Started
 
