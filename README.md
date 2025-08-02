@@ -40,7 +40,9 @@ To view the site locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/festuskyalomutua/My-Portfolio
-Open index.html in your browser.
+Navigate to the project directory:
+cd MyPortfolio
+Open index.html: Simply open the index.html file in your preferred web browser to view the portfolio.
 
 📞 Contact
 WhatsApp: +254 710 694 981
