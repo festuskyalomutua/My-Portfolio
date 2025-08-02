@@ -38,11 +38,13 @@ profile-project/
 To view the site locally:
 
 1. Clone the repository:
-   ```bash
+
    git clone https://github.com/festuskyalomutua/My-Portfolio
    
 Navigate to the project directory:
+
 cd MyPortfolio
+
 Open index.html: Simply open the index.html file in your preferred web browser to view the portfolio.
 
 📞 Contact
