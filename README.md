@@ -50,7 +50,7 @@ To view the site locally:
 2. Navigate to the project directory:
 
 
-Open index.html: Simply open the index.html file in your preferred web browser to view the portfolio.
+   Open index.html: Simply open the index.html file in your preferred web browser to view the portfolio.
 
 3. 📞 Contact
    https://github.com/festuskyalomutua
