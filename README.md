@@ -26,6 +26,7 @@ You can view the live site here:
 Mysacco web, Mambo doc web and Rebfest
 
 ## 📁 Folder Structure
+
 profile-project/
 │
 ├── index1.html # Main HTML file
