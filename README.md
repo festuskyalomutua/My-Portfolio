@@ -47,5 +47,6 @@ Open index.html: Simply open the index.html file in your preferred web browser t
 
 📞 Contact
 https://github.com/festuskyalomutua
+https://www.linkedin.com/in/festus-kyalo-mutua-11137530b
 WhatsApp: +254 710 694 981
 Twitter: @festus69020
