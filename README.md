@@ -43,7 +43,6 @@ To view the site locally:
    
 Navigate to the project directory:
 
-cd MyPortfolio
 
 Open index.html: Simply open the index.html file in your preferred web browser to view the portfolio.
 
