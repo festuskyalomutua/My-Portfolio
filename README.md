@@ -19,7 +19,7 @@ This is a responsive personal profile website built using only **HTML** and **CS
 ## 🌐 Live Demo
 
 You can view the live site here:  
-👉 https://github.com/festuskyalomutua/My-Portfolio or https://www.festo.com
+👉 https://github.com/festuskyalomutua/My-Portfolio
 
 ## 🖼️ Screenshots
 
@@ -40,11 +40,11 @@ To view the site locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/festuskyalomutua/My-Portfolio
+   
 Navigate to the project directory:
 cd MyPortfolio
 Open index.html: Simply open the index.html file in your preferred web browser to view the portfolio.
 
 📞 Contact
 WhatsApp: +254 710 694 981
-
 Twitter: @festus69020
